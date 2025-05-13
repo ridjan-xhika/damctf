@@ -68,8 +68,6 @@ Flag reconstitué manuellement en suivant les chaînes dans `build_flag_task` :
 dam{Fr33R705_15_C001_on_the_esp32c6}
 ```
 
-*(flag exact non affiché ici par souci de spoil)*
-
 ---
 
 ## 🧠 Remarques
