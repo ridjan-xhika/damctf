@@ -1,33 +1,73 @@
-Write-ups du DAMCTF 2025
+# 🏆 DAMCTF 2025 Write-ups
 
-Ce repository contient les solutions (write-ups) des défis résolus lors du DAMCTF 2025. Chaque défi est accompagné d'une explication détaillée sur la manière dont il a été résolu, avec les outils, techniques et stratégies utilisées.
-Description
+<div align="center">
+  
+![DAMCTF Banner](https://via.placeholder.com/800x200?text=DAMCTF+2025)
 
-Le DAMCTF 2025 est un événement de Capture The Flag (CTF), où les participants résolvent des défis dans des domaines variés comme :
+**Collection of challenge solutions and write-ups from DAMCTF 2025**
 
-    Reverse engineering
+</div>
 
-    Cryptographie
+## 📋 Overview
 
-    Exploitation de vulnérabilités
+This repository contains detailed write-ups for challenges solved during DAMCTF 2025. Each solution includes a comprehensive explanation of the approach, tools used, and step-by-step resolution process.
 
-    Sécurité des systèmes
+<details>
+<summary>About DAMCTF</summary>
+<br>
+DAMCTF is an annual Capture The Flag competition featuring challenges across various cybersecurity domains. Participants solve puzzles and exploit vulnerabilities to discover hidden flags and earn points.
+</details>
 
-    Et bien plus encore...
+## 🏷️ Categories
 
-Les write-ups présents ici montrent les différentes étapes et processus suivis pour résoudre chaque défi. Vous y trouverez des solutions pour des challenges allant de simples énigmes cryptographiques à des analyses plus complexes de binaires.
-Challenges Résolus
-1. RISCy Business
+Challenges in this repository span multiple cybersecurity domains:
 
-Un challenge de reverse engineering sur un périphérique RISCV embarqué. La résolution a impliqué l'analyse d'un fichier ELF et l'exploitation de FreeRTOS pour obtenir le flag.
-2. Chessography
+- 🔄 **Reverse Engineering** - Binary analysis and decompilation
+- 🔒 **Cryptography** - Breaking cryptographic algorithms and protocols
+- 🐞 **Exploitation** - Finding and leveraging vulnerabilities
+- 🖥️ **System Security** - Operating system and application security challenges
+- 🔍 **Forensics** - Digital evidence analysis
+- 🌐 **Web Security** - Web application vulnerabilities
+- 🧠 **Misc** - Puzzles that don't fit traditional categories
 
+## 🎯 Solved Challenges
 
-Les solutions sont organisées dans des dossiers spécifiques à chaque défi. Chaque dossier contient :
+### Reverse Engineering
 
-    Le fichier ou l'élément à analyser (par exemple, un binaire ou un fichier chiffré)
+#### RISCy Business
+A reverse engineering challenge focusing on a RISCV embedded device. The solution involved analyzing an ELF file and exploiting FreeRTOS to obtain the flag.
 
-    La solution détaillée étape par étape
+### Cryptography
 
+#### Chessography
+A cryptographic challenge disguised as a chess puzzle.
 
-Pour toute question, n'hésitez pas à me contacter par email à : ridjan.xhika@epitech.eu.
+## 🛠️ Tools Used
+
+- Ghidra - For reverse engineering and binary analysis
+- Wireshark - For network packet analysis
+- Burp Suite - For web application testing
+- Python scripts - For automation and exploit development
+- And more...
+
+## 🤝 Contributing
+
+Feel free to submit pull requests if you have alternative solutions or want to improve existing write-ups.
+
+## 📧 Contact
+
+If you have any questions or suggestions, you can reach me at:
+
+- Email: ridjan.xhika@epitech.eu
+
+## ⚖️ License
+
+This repository is provided for educational purposes only. All challenge content belongs to their respective creators.
+
+---
+
+<div align="center">
+  
+**Happy hacking!** 🚀
+
+</div>
