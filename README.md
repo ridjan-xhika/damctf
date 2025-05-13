@@ -37,7 +37,7 @@ A reverse engineering challenge focusing on a RISCV embedded device. The solutio
 
 ### Cryptography
 
-#### Chessography
+#### Hidden-Orongutang
 A cryptographic challenge disguised as a chess puzzle.
 
 ## 🛠️ Tools Used
