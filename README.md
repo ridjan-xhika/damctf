@@ -2,8 +2,6 @@
 
 <div align="center">
   
-![DAMCTF Banner](https://via.placeholder.com/800x200?text=DAMCTF+2025)
-
 **Collection of challenge solutions and write-ups from DAMCTF 2025**
 
 </div>
