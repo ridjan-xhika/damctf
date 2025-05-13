@@ -48,10 +48,6 @@ A cryptographic challenge disguised as a chess puzzle.
 - Python scripts - For automation and exploit development
 - And more...
 
-## 🤝 Contributing
-
-Feel free to submit pull requests if you have alternative solutions or want to improve existing write-ups.
-
 ## 📧 Contact
 
 If you have any questions or suggestions, you can reach me at:
